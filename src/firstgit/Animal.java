@@ -10,5 +10,5 @@ package firstgit;
  * @author jstra
  */
 public class Animal {
-    
+    private int age;
 }
